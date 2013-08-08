@@ -6,7 +6,7 @@ case "${1}" in
   build)
     wintersmith build
   ;;
-  githook)
+  deploy)
     git pull origin master
     npm install
     wintersmith build
