@@ -1,0 +1,19 @@
+#!/bin/sh
+cd $(dirname "${0}")/..
+PATH=./node/bin:./node_modules/.bin:/usr/local/bin:/usr/bin:/bin
+[ ! -d node_modules ] && npm install
+case "${1}" in
+  build)
+    wintersmith build
+  ;;
+  githook)
+    git pull github master
+    wintersmith build
+  ;;
+  preview)
+   wintersmith preview
+  ;;
+  clean)
+   rm -rf ./build
+  ;;
+esac
