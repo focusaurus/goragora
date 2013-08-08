@@ -1,0 +1,14 @@
+{
+  "name": "goragora",
+  "version": "0.0.0",
+  "description": "goragora.org web site",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git.peterlyons.com/home/plyons/projects/goragora.git"
+  },
+  "author": "Peter Lyons <pete@peterlyons.com>",
+  "license": "MIT",
+  "dependencies": {
+    "wintersmith": "~2.0.5"
+  }
+}
