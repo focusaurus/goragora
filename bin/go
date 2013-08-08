@@ -7,7 +7,8 @@ case "${1}" in
     wintersmith build
   ;;
   githook)
-    git pull github master
+    git pull origin master
+    npm install
     wintersmith build
   ;;
   preview)
