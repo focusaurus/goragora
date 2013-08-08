@@ -9,3 +9,11 @@ We perform Balkan, Funk, Second Line, Roma, and other musics from around the wor
 ###Members
 * Tung Pham
 * Alice Hansen
+* Breana Cowart
+* John Jonas
+* Sandy Johnson
+* Pete Lyons
+* Ian Rictor
+* Mike Silverstein
+* Ian Campbell
+* Michael Righi
