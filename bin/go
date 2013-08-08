@@ -1,6 +1,6 @@
 #!/bin/sh
-cd $(dirname "${0}")/..
 PATH=./node/bin:./node_modules/.bin:/usr/local/bin:/usr/bin:/bin
+cd $(dirname "${0}")/..
 [ ! -d node_modules ] && npm install
 case "${1}" in
   build)
