@@ -1,7 +1,105 @@
-body {
-	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background: #FFFFCC;
-	margin: 0;
-	padding: 0;
-	color: #000;
-}
+html
+head
+    meta(charset='UTF-8')
+    title Gora Gora Orkestar
+    style(type='text/css')
+      body {
+      font: 100%/1.4 Georgia, serif;
+      background: #FFFFFF;
+      margin: 0;
+      padding: 0;
+      color: #000;
+      }
+      ul, ol, dl {
+      padding: 0;
+      margin: 0;
+      }
+      h1, h2, h3, h4, h5, h6, p {
+      font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+      margin-top: 0;
+      padding-right: 15px;
+      padding-left: 15px;
+      }
+      a img {
+      border: none;
+      }
+      a:link {
+      color:#FFFFFF;
+      text-decoration: none;
+      }
+      a:visited {
+      color: #FFFFFF;
+      text-decoration: none;
+      }
+      a:hover, a:active, a:focus {
+      text-decoration: underline;
+      }
+      .container {
+      width: 80%;
+      max-width: 1260px;
+      min-width: 780px;
+      background: #FFFFFF;
+      margin: 0 auto;
+      }
+      .header {
+      background: #FFFFFF;
+      }
+      .sidebar1 {
+      float: left;
+      width: 20%;
+      background: #FFFFFF;
+      padding-bottom: 10px;
+      }
+      .content {
+      padding: 10px 0;
+      width: 50%;
+      float: left;
+      }
+      .sidebar2 {
+      float: left;
+      width: 30%;
+      background: #FFFFFF;
+      padding: 10px 0;
+      }
+      .content ul, .content ol {
+      padding: 0 15px 15px 40px;
+      }
+      ul.nav {
+      list-style: none;
+      border-top: 1px solid #666;
+      margin-bottom: 15px;
+      }
+      ul.nav li {
+      border-bottom: 1px solid #666;
+      }
+      ul.nav a, ul.nav a:visited {
+      padding: 5px 5px 5px 15px;
+      display: block;
+      text-decoration: none;
+      background: #FFFFFF;
+      color: #000;
+      }
+      ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
+      background: #FFFFFF;
+      color: #000;
+      }
+      .footer {
+      padding: 10px 0;
+      background: #FFFFFF;
+      position: relative;
+      clear: both;
+      }
+      .fltrt {
+      float: right;
+      margin-left: 8px;
+      }
+      .fltlft {
+      float: left;
+      margin-right: 8px;
+      }
+      .clearfloat {
+      clear:both;
+      height:0;
+      font-size: 1px;
+      line-height: 0px;
+      }
