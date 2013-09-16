@@ -3,16 +3,22 @@ head
     meta(charset='UTF-8')
     title GORA GORA ORKESTAR
     style(type='text/css')
-      body, p {
-          font: 100%/1.4 Georgia, serif;
-          background: #FFFFFF;
-          margin: 0;
-          padding: 0;
-          color: #000;
-      }
-      ul, ol, dl {
-          padding: 0;
-          margin: 0;
+    body {
+        font: Georgia, serif;
+        background: #FFFFFF;
+        margin: 0;
+        padding: 0;
+        color: #000;
+        }
+    ul, ol, dl {
+        padding: 0;
+        margin: 0;
+        }
+    p {
+        font: Georgia, serif;
+        margin-top: 0;
+        padding-right: 15px;
+        padding-left: 15px;
       }
       h1, h2, h3, h4, h5, h6 {
           font: 150%/1.4 Verdana, Arial, Helvetica, sans-serif;
