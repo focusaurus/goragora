@@ -29,6 +29,7 @@ font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 margin-top: 0;
 padding-right: 0px;
 padding-left: 0px;
+border-top: 2px solid black;
 }
 
 a:img {
