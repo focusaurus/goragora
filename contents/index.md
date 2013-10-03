@@ -1,5 +1,6 @@
 ---
 template: index.jade
+title: 
 ---
 <iframe
   width="100%" height="450" scrolling="no" frameborder="no"
