@@ -5,7 +5,8 @@ title: Gora Gora Orkestar
 <iframe
   width="100%" height="450" scrolling="no" frameborder="no"
   src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F6602692&color=424242&auto_play=false&show_artwork=true"></iframe>
-<iframe width="420" height="315" src="//www.youtube.com/embed/Wrg7T31BfYo?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe 
+  width="100%" height="315" src="//www.youtube.com/embed/Wrg7T31BfYo?rel=0" frameborder="0" allowfullscreen></iframe>
 ##UPCOMING SHOWS
 
 * October 10th through October 13th 2013: Honk!Fest (Somerville, MA)
