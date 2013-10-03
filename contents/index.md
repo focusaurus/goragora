@@ -1,6 +1,6 @@
 ---
 template: index.jade
-title: 
+title: Gora Gora Orkestar
 ---
 <iframe
   width="100%" height="450" scrolling="no" frameborder="no"
