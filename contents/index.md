@@ -67,3 +67,5 @@ Gora Gora Orkestar has maintained a busy performance schedule which includes loc
 * Pumphouse Brewery
 * Road 34
 * Waterloo Icehouse
+
+//Copyright 2013 Gora Gora Orkestar.
