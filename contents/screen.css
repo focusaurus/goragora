@@ -1,136 +1,72 @@
-html
-head
-meta(charset='UTF-8')
-title GORA GORA ORKESTAR
-style(type='text/css')
+//@import url(http://fonts.googleapis.com/css?family=Ewert);
 
 body {
-font: 100%/1.4 Georgia, serif;
-background: #FFFFFF;
-margin: 0;
-padding: 0;
-color: #000;
+  font: 100%/1.4 Georgia, serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  color: black;
 }
-
-ul, ol, dl {
-padding: 0;
-margin: 0;
+a {
+  text-decoration: none;
 }
 
 p {
-font: 100%/1.4 Georgia, serif;
-margin-top: 0;
-padding-right: 15px;
-padding-left: 15px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-margin-top: 0;
-padding-right: 0px;
-padding-left: 0px;
-border-top: 2px solid black;
-}
-
-a:img {
-border: none;
-}
-
-a:link {
-color:#700000;
-text-decoration: none;
-}
-
-a:visited {
-color: #666666;
-text-decoration: none;
-}
-
-a:hover, a:active, a:focus {
-text-decoration: underline;
+  margin-top: 0;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 .container {
-width: 80%;
-max-width: 1260px;
-min-width: 780px;
-background: #FFFFFF;
-margin: 0 auto;
+  width: 80%;
+  max-width: 1260px;
+  min-width: 780px;
+  margin: 0 auto;
 }
 
-.header {
-background: #FFFFFF;
+nav > img {
+  display: block;
+  margin-bottom: 30px;
 }
 
-.sidebar1 {
-float: left;
-width: 20%;
-background: #FFFFFF;
-padding-bottom: 10px;
+nav {
+  font-family: verdana, arial, helvetica, sans-serif;
+  margin-bottom: 30px;
 }
 
-.content {
-padding: 10px 0;
-width: 50%;
-float: left;
+nav a {
+  color: black;
+  font-weight: bold;
+  margin-left: 3em;
 }
 
-.sidebar2 {
-float: left;
-width: 30%;
-background: #FFFFFF;
-padding: 10px 0;
+h1, h2, h3 {
+  font-family: Georgia, serif;
+  border-top: 2px solid black;
+  margin-top: 40px;
 }
 
-.content ul, .content ol {
-padding: 0 15px 15px 40px;
+h1 { font-size: 28px }
+h2 { font-size: 24px }
+h3 { font-size: 18px }
+
+ul, ol, dl {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
 }
 
-ul.nav {
-list-style: none;
-border-top: 1px solid #666;
-margin-bottom: 15px;
+li {
+  margin-left: 3em;
+  line-height: 2em;
 }
 
-ul.nav li {
-border-bottom: 1px solid #666;
+footer {
+  margin-top: 30px;
+  text-align: center;
+  font-style: italic;
+  color: grey;
 }
 
-ul.nav a, ul.nav a:visited {
-padding: 5px 5px 5px 15px;
-display: block;
-text-decoration: none;
-background: #FFFFFF;
-color: #000;
-}
 
-ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
-background: #FFFFFF;
-color: #700000;
-}
 
-.footer {
-padding: 10px 0;
-background: #FFFFFF;
-position: relative;
-clear: both;
-}
-
-.fltrt {
-float: right;
-margin-left: 8px;
-}
-
-.fltlft {
-float: left;
-margin-right: 8px;
-}
-
-clearfloat {
-clear:both;
-height:0;
-font-size: 1px;
-line-height: 0px;
-}
-
-// Copyright 2013 Gora Gora Orkestar.
