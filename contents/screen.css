@@ -38,7 +38,6 @@ nav a {
   color: black;
   font-weight: bold;
   margin-left: 3em;
-border-top: 1px solid #666;
 }
 
 nav a:hover, ul.nav a:active, ul.nav a:focus {
