@@ -30,6 +30,7 @@ nav > img {
 }
 
 nav {
+  border-top: 2px solid black;
   font-family: verdana, arial, helvetica, sans-serif;
   margin-bottom: 30px;
 }
@@ -68,5 +69,5 @@ footer {
   color: grey;
 }
 
-
+// Copyright 2013 Gora Gora Orkestar.
 
