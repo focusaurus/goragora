@@ -37,7 +37,7 @@ nav {
 nav a {
   color: black;
   font-weight: bold;
-  margin-left: 3em;
+  margin-left: 1em;
 }
 
 nav a:hover, ul.nav a:active, ul.nav a:focus {
