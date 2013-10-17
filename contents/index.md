@@ -11,8 +11,10 @@ title: Gora Gora Orkestar
 </iframe>
 ##UPCOMING SHOWS
 
-* October 19th 2013, 12:30pm: Aurora Fall Festival (Aurora, CO)
+* October 19th 2013, 12:30pm: [Aurora Fall Festival](https://www.facebook.com/events/229405380542996/) (Aurora, CO)
 * November 2nd 2013, 8:00pm: The Oriental Theater (Denver, CO)
+  * [Kal Cahoone CD Release Party](http://holdmyticket.com/event/150736)
+* November 30th 2013, 8:00pm: The Mercury Cafe (Denver, CO)
 * New Years Eve: December 31st 2013 The Mercury Cafe (Denver, CO)
 
 ##MUSICIANS
