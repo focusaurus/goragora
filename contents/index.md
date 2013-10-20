@@ -11,9 +11,8 @@ title: Gora Gora Orkestar
 </iframe>
 ##UPCOMING SHOWS
 
-* October 19th 2013, 12:30pm: [Aurora Fall Festival](https://www.facebook.com/events/229405380542996/) (Aurora, CO)
-* November 2nd 2013, 8:00pm: The Oriental Theater (Denver, CO)
-  * [Kal Cahoone CD Release Party](http://holdmyticket.com/event/150736)
+* October 25th 2013, 9:00pm: Bohemian Biergarten (Boulder, CO)
+* November 2nd 2013, 8:00pm: The Oriental Theater (Denver, CO) [Kal Cahoone CD Release Party](http://holdmyticket.com/event/150736)
 * November 30th 2013, 8:00pm: The Mercury Cafe (Denver, CO)
 * New Years Eve: December 31st 2013 The Mercury Cafe (Denver, CO)
 
@@ -36,8 +35,9 @@ This happy caravan of musicians is comprised of seasoned veterans in the perform
 Gora Gora Orkestar has maintained a busy performance schedule which includes local and national music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission as they have visited many public schools, performed for local 5k marathons and continue to participate in fund-raising for local businesses.
 
 ##PAST SHOWS (National)
-* Honk! TX (Austin, TX)
-* Honk! Fest (Boston, MA)
+* Honk! Fest 2013 (Boston, MA)
+* Honk! TX 2013 (Austin, TX)
+* Honk! Fest 2012 (Boston, MA)
 * Spider House Cafe (Austin, TX)
 * Redbones (Boston, MA)
 * Russian House (Austin, TX)
@@ -56,6 +56,7 @@ Gora Gora Orkestar has maintained a busy performance schedule which includes loc
 * CU Russian Festival
 * Village Arts Coalition Festival
 * Aurora Arts Festival
+* Aurora Fall Festival
 * 29th Street Live!
 * Dickens Opera House
 * Mercury Café
