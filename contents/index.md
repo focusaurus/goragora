@@ -5,10 +5,9 @@ title: Gora Gora Orkestar
 <iframe width="100%" height="450" scrolling="no" frameborder="0"
   src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F6602692&color=424242&auto_play=false&show_artwork=true">
 </iframe>
-<iframe width="100%" height="450" scrolling="no" frameborder="0"
-  src="//www.youtube.com/embed/ELbkS-Kj4Z0"
-  allowfullscreen>
+<iframe width='100%', height='315', src='//www.youtube.com/embed/ELbkS-Kj4Z0', frameborder='0', allowfullscreen='allowfullscreen'>
 </iframe>
+
 ##UPCOMING SHOWS
 
 * October 25th 2013, 9:00pm: Bohemian Biergarten (Boulder, CO)
