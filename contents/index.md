@@ -10,10 +10,10 @@ title: Gora Gora Orkestar
 
 ##UPCOMING SHOWS
 
-* October 25th 2013, 9:00pm: Bohemian Biergarten (Boulder, CO)
+* November 1st 2013, (Private Party)
 * November 2nd 2013, 8:00pm: The Oriental Theater (Denver, CO) [Kal Cahoone CD Release Party](http://holdmyticket.com/event/150736)
 * November 30th 2013, 8:00pm: The Mercury Cafe (Denver, CO)
-* New Years Eve: December 31st 2013 The Mercury Cafe (Denver, CO)
+* New Years Eve: December 31st 2013, The Mercury Cafe (Denver, CO)
 
 ##MUSICIANS
 * TRUMPET: Tung Pham, Alice Hansen
@@ -64,7 +64,7 @@ Gora Gora Orkestar has maintained a busy performance schedule which includes loc
 * Bohemian Biergarten
 * Comfort Café
 * Laughing Goat
-* Leela European Café
+* Leela's European Café
 * Left Hand Brewery
 * Pumphouse Brewery
 * Road 34
