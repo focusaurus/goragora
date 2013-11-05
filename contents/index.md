@@ -29,17 +29,17 @@ Gora Gora Orkestar brings the sounds of the Balkans to the Rockies with high ene
 
 This happy caravan of musicians is comprised of seasoned veterans in the performance, education, and composition of music. The “Infinite Swag” EP was released in 2011 featuring five of Gora Gora Orkestar’s most recognizable tunes with a follow-up record slated for release in 2014.
 
-Gora Gora Orkestar has maintained a busy performance schedule which includes local and national music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission as they have visited many public schools, performed for local 5k marathons and continue to participate in fund-raising for local businesses.
+Gora Gora Orkestar maintains a busy performance schedule which includes local and national music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission as they have visited many public schools, performed for local 5k marathons and continue to participate in fund-raising for local businesses.
 
 ##PAST SHOWS (National)
 * Honk! Fest 2013 (Boston, MA)
 * Honk! TX 2013 (Austin, TX)
 * Honk! Fest 2012 (Boston, MA)
 * Spider House Cafe (Austin, TX)
-* Redbones (Boston, MA)
 * Russian House (Austin, TX)
 * Snack Bar (Austin, TX)
 * Trudy’s (Austin, TX)
+* Redbones (Boston, MA)
 
 ##PAST SHOWS (Local)
 * Underground Music Showcase
@@ -58,6 +58,7 @@ Gora Gora Orkestar has maintained a busy performance schedule which includes loc
 * Dickens Opera House
 * Mercury Café
 * Walnut Room
+* The Oriental Theater
 * D Note
 * Bohemian Biergarten
 * Comfort Café
