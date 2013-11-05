@@ -10,8 +10,6 @@ title: Gora Gora Orkestar
 
 ##UPCOMING SHOWS
 
-* November 1st 2013, (Private Party)
-* November 2nd 2013, 8:00pm: The Oriental Theater (Denver, CO) [Kal Cahoone CD Release Party](http://holdmyticket.com/event/150736)
 * November 30th 2013, 8:00pm: The Mercury Cafe (Denver, CO)
 * New Years Eve: December 31st 2013, The Mercury Cafe (Denver, CO)
 
