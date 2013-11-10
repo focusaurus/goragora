@@ -1,4 +1,4 @@
-//@import url(http://fonts.googleapis.com/css?family=Ewert);
+@import url(http://fonts.googleapis.com/css?family=Ewert);
 @import url(http://fonts.googleapis.com/css?family=Ultra) rel='stylesheet' type='text/css';
 
 body {
@@ -31,7 +31,7 @@ nav > img {
 }
 
 nav {
-  font-family: 'Ultra', georgia, serif;
+  font-family: ewert,'Ultra', georgia, serif;
   margin-bottom: 30px;
 }
 
@@ -47,7 +47,7 @@ color: #700000;
 }
 
 h1, h2, h3 {
-  font-family: 'Ultra', georgia, serif;
+  font-family: 'ewert','Ultra', georgia, serif;
   border-top: 2px solid black;
   margin-top: 40px;
 }
