@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Alfa Slab One);
+@import url(http://fonts.googleapis.com/css?family=Bevan);
 //@import url(http://fonts.googleapis.com/css?family=Ewert);
 
 body {
@@ -31,7 +31,7 @@ nav > img {
 }
 
 nav {
-  font-family: Alfa Slab One, georgia, serif;
+  font-family: Bevan, georgia, serif;
   margin-bottom: 30px;
 }
 
@@ -47,7 +47,7 @@ color: #700000;
 }
 
 h1, h2, h3 {
-  font-family: Alfa Slab One, georgia, serif;
+  font-family: Bevan, georgia, serif;
   border-top: 2px solid black;
   margin-top: 40px;
 }
