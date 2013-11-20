@@ -17,6 +17,17 @@ p {
   padding-left: 15px;
 }
 
+p a {
+  color: black;
+  font-weight: bold;
+  margin-left: 1em;
+}
+
+p a:hover, ul.nav a:active, ul.nav a:focus {
+background: #FFFFFF;
+color: #700000;
+}
+
 .container {
   width: 80%;
   max-width: 1260px;
