@@ -10,9 +10,9 @@ title: Gora Gora Orkestar
 
 ##UPCOMING SHOWS
 
-* November 30th 2013, 8:00pm: <a href="http://mercurycafe.com">The Mercury Cafe</a> (Denver, CO)
-* New Years Eve: December 31st 2013, <a href="http://mercurycafe.com">The Mercury Cafe</a> (Denver, CO)
-* March 20th - 23rd 2014: <a href="http://www.honktx.org">Honk!TX</a> (Austin, TX)
+* November 30th 2013, 8:00pm: <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO)
+* New Years Eve: December 31st 2013, <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO)
+* March 20th - 23rd 2014: <a href="http://www.honktx.org" target="_blank">Honk!TX</a> (Austin, TX)
 
 ##MUSICIANS
 * TRUMPET: Tung Pham, Alice Hansen
