@@ -16,13 +16,13 @@ title: Gora Gora Orkestar
 
 ##MUSICIANS
 * TRUMPET: Tung Pham, Alice Hansen
-* SAXOPHONE: Pete Lyons, Ian Rictor
+* SAXOPHONE: <a href="http://www.peterlyons.com" target="_blank">Pete Lyons</a>, Ian Rictor
 * TROMBONE: John Jonas, Breana Cowart
 * SOUSAPHONE: Michael Silverstein
 * CLARINET: Maggie Greenwood
 * TENOR HORN: Sandy Johnson
-* DRUMS: Mike Righi, Ian Campbell
-* VOCALS: Kate Jaworski
+* DRUMS: Mike Righi, <a href="http://www.afterpostmodernism.com" target="_blank">Ian Campbell</a>
+* VOCALS: <a href="http://www.katejaworski.com" target="_blank">Kate Jaworski</a>
 
 ## BIOGRAPHY
 
