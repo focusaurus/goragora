@@ -11,7 +11,7 @@ title: Gora Gora Orkestar
 ##UPCOMING SHOWS
 
 * November 30th 2013, 8:00pm: <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO)
-* New Years Eve: December 31st 2013, <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO)
+* New Years Eve: December 31st 2013: <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO)
 * March 20th - 23rd 2014: <a href="http://www.honktx.org" target="_blank">Honk!TX</a> (Austin, TX)
 
 ##MUSICIANS
@@ -36,27 +36,27 @@ Gora Gora Orkestar maintains a busy performance schedule which includes local an
 * <a href="http://honkfest.org/" target="_blank">Honk! Fest 2013 (Boston, MA)</a>
 * <a href="http://www.honktx.org/" target="_blank">Honk! TX 2013 (Austin, TX)</a>
 * <a href="http://honkfest.org/" target="_blank">Honk! Fest 2012 (Boston, MA)</a>
-* <a href="http://spiderhousecafe.com/" target="_blank">Spider House Cafe (Austin, TX)</a>
-* <a href="http://russianhouseofaustin.com/" target="_blank">Russian House (Austin, TX)</a>
-* <a href="http://www.snackbaraustin.com/" target="_blank">Snack Bar (Austin, TX)</a>
-* <a href="http://www.trudys.com/" target="_blank">Trudy’s (Austin, TX)</a>
-* <a href="https://www.redbones.com/" target="_blank">Redbones (Boston, MA)</a>
+* <a href="http://spiderhousecafe.com/" target="_blank">Spider House Cafe (Austin, TX)</a> (2013)
+* <a href="http://russianhouseofaustin.com/" target="_blank">Russian House (Austin, TX)</a> (2013)
+* <a href="http://www.snackbaraustin.com/" target="_blank">Snack Bar (Austin, TX)</a> (2013)
+* <a href="http://www.trudys.com/" target="_blank">Trudy’s (Austin, TX)</a> (2013)
+* <a href="https://www.redbones.com/" target="_blank">Redbones (Boston, MA)</a> (2012)
 
 ##PAST SHOWS (Colorado)
-* <a href="http://www.theums.com/" target="_blank">Underground Music Showcase (2013)</a>
+* <a href="http://www.theums.com/" target="_blank">Underground Music Showcase</a> (2013)
 * <a href="http://www.atasteofcolorado.com/" target="_blank">Taste Of Colorado</a>
-* <a href="http://www.theorientaltheater.com/event/132453" target="_blank">Northwest Denver Folk Festival (2013)</a>
-* <a href="http://www.bceproductions.com/boulder-creek-festival/" target="_blank">Boulder Creek Festival (2013)</a>
-* <a href="http://www.denverstpatricksdayparade.com/" target="_blank">Denver St. Patrick’s Day Parade (2013)</a>
+* <a href="http://www.theorientaltheater.com/event/132453" target="_blank">Northwest Denver Folk Festival</a> (2013)
+* <a href="http://www.bceproductions.com/boulder-creek-festival/" target="_blank">Boulder Creek Festival</a> (2013)
+* <a href="http://www.denverstpatricksdayparade.com/" target="_blank">Denver St. Patrick’s Day Parade</a> (2013)
 * <a href="http://www.coloradoshakes.org/" target="_blank">Colorado Shakespeare Festival</a>
-* <a href="http://www.villageartscoalition.org/" target="_blank">Village Arts Coalition Festival (2013)</a>
+* <a href="http://www.villageartscoalition.org/" target="_blank">Village Arts Coalition Festival</a> (2013)
 * <a href="http://www.bceproductions.com/twenty-ninth-street-live/" target="_blank">29th Street Live!</a>
 * <a href="http://dickensoperahouse.com/" target="_blank">Dickens Opera House</a>
-* <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe (2012, 2013)</a>
-* <a href="http://www.thewalnutroom.com/" target="_blank">Walnut Room (2013)</a>
-* <a href="http://www.theorientaltheater.com/" target="_blank">The Oriental Theater (2013)</a>
+* <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (2012, 2013)
+* <a href="http://www.thewalnutroom.com/" target="_blank">Walnut Room</a> (2013)
+* <a href="http://www.theorientaltheater.com/" target="_blank">The Oriental Theater</a> (2013)
 * <a href="http://www.dnote.us/" target="_blank">D Note</a>
-* <a href="http://bohemianbiergarten.com/" target="_blank">Bohemian Biergarten</a>
+* <a href="http://bohemianbiergarten.com/" target="_blank">Bohemian Biergarten</a> (2013)
 * <a href="http://www.thecomfortcafe.net/" target="_blank">Comfort Café</a>
 * <a href="http://thelaughinggoat.com/" target="_blank">Laughing Goat</a>
 * <a href="http://www.leelacafe.com/" target="_blank">Leela's European Café</a>
