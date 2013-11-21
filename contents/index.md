@@ -43,10 +43,10 @@ Gora Gora Orkestar maintains a busy performance schedule which includes local an
 * Redbones (Boston, MA)
 
 ##PAST SHOWS (Local)
-* Underground Music Showcase
-* Taste Of Colorado
-* Northwest Denver Folk Festival
-* Boulder Creek Festival
+* <a href="http://www.theums.com/" target="_blank">Underground Music Showcase</a>
+* <a href="http://www.atasteofcolorado.com/" target="_blank">Taste Of Colorado</a>
+* <a href="http://www.theorientaltheater.com/event/132453" target="_blank">Northwest Denver Folk Festival</a>
+* <a href="http://www.bceproductions.com/boulder-creek-festival/" target="_blank">Boulder Creek Festival</a>
 * Denver St. Patrick’s Day Parade
 * Green Spaces Festival
 * Colorado Shakespeare Festival
