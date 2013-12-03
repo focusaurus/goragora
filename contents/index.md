@@ -10,7 +10,7 @@ title: Gora Gora Orkestar
 
 ##UPCOMING SHOWS
 
-* New Years Eve: December 31st 2013: <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO) | <a href="http://www.goragora.org/contents /mecrury_cafe__31december2013.pdf" target="_blank">Event Flier</a>
+* New Years Eve: December 31st 2013: <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO) | <a href="http://www.goragora.org/contents/mecrury_cafe__31december2013.pdf" target="_blank">Event Flier</a>
 * March 20th - 23rd 2014: <a href="http://www.honktx.org" target="_blank">Honk!TX</a> (Austin, TX)
 
 ##MUSICIANS
