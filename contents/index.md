@@ -71,6 +71,6 @@ Gora Gora Orkestar maintains a busy performance schedule which includes local an
 
 ##MAILING LIST
 
-<div class="widget_iframe" style="display:inline-block;width:100%;height:170px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_1036861?widget_id=54&pwc[design]=customized&pwc[background_color]=%23ffffff&pwc[size]=custom" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
+<div class="widget_iframe" style="display:inline-block;width:100%;height:180px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_1036861?widget_id=54&pwc[design]=customized&pwc[background_color]=%23ffffff&pwc[size]=custom" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
 
 # 
