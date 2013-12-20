@@ -45,6 +45,7 @@ p {
   width: 60%;
   float: left;
   background: #FFFFFF;
+  border: 2px #FFFFFF;
 }
 
 nav > img {
