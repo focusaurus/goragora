@@ -2,9 +2,9 @@
 template: index.jade
 title: Gora Gora Orkestar
 ---
-<iframe width="100%" height="300" scrolling="no" frameborder="0"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/13897132&amp;color=000000&amp;auto_play=false&amp;show_artwork=true">
-</iframe> <iframe width="100%" height="300" frameborder="0" src="http://www.youtube.com/embed/ELbkS-Kj4Z0?rel=0">
+<iframe width="100%" height="350" scrolling="no" frameborder="0"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/13897132&amp;color=000000&amp;auto_play=false&amp;show_artwork=true"></iframe>
+<iframe width="100%" height="350" frameborder="0" src="http://www.youtube.com/embed/ELbkS-Kj4Z0?rel=0">
 </iframe>
 
 ##UPCOMING SHOWS
