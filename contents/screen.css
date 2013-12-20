@@ -8,14 +8,6 @@ body {
   color: black;
 }
 
-sidebar {
-  font-family: georgia, serif;
-  background-color: white;
-  width: 29%;
-  float: right;
-  margin: 0 auto;
-}
-
 a {
   text-decoration: none;
   font-weight: bold;
