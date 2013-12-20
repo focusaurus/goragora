@@ -34,7 +34,7 @@ p {
 }
 
 .sidebar {
-  float: left;
+  float: right;
   width: 39%;
   background: #FFFFFF;
   padding-bottom: 10px;
