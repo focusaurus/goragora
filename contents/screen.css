@@ -30,6 +30,19 @@ p {
   max-width: 1260px;
   min-width: 780px;
   margin: 0 auto;
+  overflow: hidden;
+}
+
+.sidebar {
+	float: left;
+	width: 20%;
+	background: #FFFFFF;
+	padding-bottom: 10px;
+}
+.content {
+	padding: 10px 0;
+	width: 80%;
+	float: left;
 }
 
 nav > img {
