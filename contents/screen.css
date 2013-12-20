@@ -42,8 +42,9 @@ p {
 
 .content {
   padding: 10px 0;
-  width: 50%;
-  float: left;
+  width: 60%;
+  float: right;
+  background: #FFFFFF;
 }
 
 nav > img {
