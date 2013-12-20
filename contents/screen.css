@@ -7,6 +7,12 @@ body {
   padding: 0;
   color: black;
 }
+sidebar {
+  width: 19%;
+  float: left;
+  margin: 0 auto;
+}
+
 a {
   text-decoration: none;
   font-weight: bold;
