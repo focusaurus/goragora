@@ -7,12 +7,6 @@ title: Gora Gora Orkestar
 <iframe width="100%" height="350" frameborder="0" src="http://www.youtube.com/embed/ELbkS-Kj4Z0?rel=0">
 </iframe>
 
-##UPCOMING SHOWS
-
-* New Years Eve: December 31st 2013: <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO) | <a href="http://www.goragora.org/mecrury_cafe__31december2013.pdf" target="_blank">Event Flier</a>
-* -
-* March 20th - 23rd 2014: <a href="http://www.honktx.org" target="_blank">Honk!TX</a> (Austin, TX)
-
 ##MUSICIANS
 * TRUMPET: Tung Pham, Alice Hansen
 * SAXOPHONE: <a href="http://www.peterlyons.com" target="_blank">Pete Lyons</a>, Ian Rictor
@@ -24,7 +18,6 @@ title: Gora Gora Orkestar
 * VOCALS: <a href="http://www.katejaworski.com" target="_blank">Kate Jaworski</a>
 
 ## BIOGRAPHY
-
 Gora Gora Orkestar brings the sounds of the Balkans to the Rockies with high energy performances. Formed in the fall of 2009, this 10 piece brass band is dedicated to making the audience dance with its infectious rhythm and own brand of feel-good music. The sound is an eclectic mix, blending Old World melodies of Eastern European folk, with the back beat of American funk and the sultry sway of South American tango into a genre coined “Brass-Hop”.
 
 This happy caravan of musicians is comprised of seasoned veterans in the performance, education, and composition of music. The “Infinite Swag” EP was released in 2011 featuring five of Gora Gora Orkestar’s most recognizable tunes with a follow-up record slated for release in 2014.
