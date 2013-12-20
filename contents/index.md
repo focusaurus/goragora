@@ -15,44 +15,6 @@ This happy caravan of musicians is comprised of seasoned veterans in the perform
 
 Gora Gora Orkestar maintains a busy performance schedule which includes local and national music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission as they have visited many public schools, performed for local 5k marathons and continue to participate in fund-raising for local businesses.
 
-##PAST SHOWS (National)
-* <a href="http://honkfest.org/" target="_blank">Honk! Fest 2013 (Boston, MA)</a>
-* <a href="http://www.honktx.org/" target="_blank">Honk! TX 2013 (Austin, TX)</a>
-* <a href="http://honkfest.org/" target="_blank">Honk! Fest 2012 (Boston, MA)</a>
-* <a href="http://spiderhousecafe.com/" target="_blank">Spider House Cafe (Austin, TX)</a> (2013)
-* <a href="http://russianhouseofaustin.com/" target="_blank">Russian House (Austin, TX)</a> (2013)
-* <a href="http://www.snackbaraustin.com/" target="_blank">Snack Bar (Austin, TX)</a> (2013)
-* <a href="http://www.trudys.com/" target="_blank">Trudy’s (Austin, TX)</a> (2013)
-* <a href="https://www.redbones.com/" target="_blank">Redbones (Boston, MA)</a> (2012)
-
-##PAST SHOWS (Colorado)
-* <a href="http://www.theums.com/" target="_blank">Underground Music Showcase</a> (2013)
-* <a href="http://www.atasteofcolorado.com/" target="_blank">Taste Of Colorado</a>
-* <a href="http://www.theorientaltheater.com/event/132453" target="_blank">Northwest Denver Folk Festival</a> (2013)
-* <a href="http://www.bceproductions.com/boulder-creek-festival/" target="_blank">Boulder Creek Festival</a> (2013)
-* <a href="http://www.denverstpatricksdayparade.com/" target="_blank">Denver St. Patrick’s Day Parade</a> (2013)
-* <a href="http://www.coloradoshakes.org/" target="_blank">Colorado Shakespeare Festival</a>
-* <a href="http://www.villageartscoalition.org/" target="_blank">Village Arts Coalition Festival</a> (2013)
-* <a href="http://www.bceproductions.com/twenty-ninth-street-live/" target="_blank">29th Street Live!</a>
-* <a href="http://dickensoperahouse.com/" target="_blank">Dickens Opera House</a>
-* <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (2012, 2013)
-* <a href="http://www.thewalnutroom.com/" target="_blank">Walnut Room</a> (2013)
-* <a href="http://www.theorientaltheater.com/" target="_blank">The Oriental Theater</a> (2013)
-* <a href="http://www.dnote.us/" target="_blank">D Note</a>
-* <a href="http://bohemianbiergarten.com/" target="_blank">Bohemian Biergarten</a> (2013)
-* <a href="http://www.thecomfortcafe.net/" target="_blank">Comfort Café</a>
-* <a href="http://thelaughinggoat.com/" target="_blank">Laughing Goat</a>
-* <a href="http://www.leelacafe.com/" target="_blank">Leela's European Café</a>
-* <a href="www.lefthandbrewing.com/" target="_blank">Left Hand Brewery</a>
-* <a href="http://www.pumphousebrewery.com/" target="_blank">Pumphouse Brewery</a>
-* <a href="http://www.road34.com/" target="_blank">Road 34</a>
-* <a href="http://waterloolouisville.com/" target="_blank">Waterloo Icehouse</a>
-* Orthodox Food Festival (2013)
-* Green Spaces Festival (2013)
-* CU Russian Festival
-* Aurora Arts Festival (2013)
-* Aurora Fall Festival (2013)
-
 ##MAILING LIST
 
 <div class="widget_iframe" style="display:inline-block;width:100%;height:180px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_1036861?widget_id=54&pwc[design]=customized&pwc[background_color]=%23ffffff&pwc[size]=custom" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
