@@ -35,14 +35,14 @@ p {
 
 .sidebar {
   float: left;
-  width: 40%;
+  width: 39%;
   background: #FFFFFF;
   padding-bottom: 10px;
 }
 
 .content {
   padding: 10px 0;
-  width: 60%;
+  width: 59%;
   float: left;
   background: #FFFFFF;
 }
