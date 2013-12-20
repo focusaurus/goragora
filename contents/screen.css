@@ -34,15 +34,16 @@ p {
 }
 
 .sidebar {
-	float: left;
-	width: 30%;
-	background: #FFFFFF;
-	padding-bottom: 10px;
+  float: left;
+  width: 30%;
+  background: #FFFFFF;
+  padding-bottom: 10px;
+  padding-right: 5px;
 }
 .content {
-	padding: 10px 0;
-	width: 70%;
-	float: left;
+  padding: 10px 0;
+  width: 70%;
+  float: left;
 }
 
 nav > img {
