@@ -8,10 +8,11 @@ body {
   padding: 0;
   color: black;
 }
+
 sidebar {
   font-family: Bevan, georgia, serif;
   background-color: white;
-  width: 250px;
+  width: 19%;
   float: left;
   margin: 0 auto;
 }
@@ -34,6 +35,8 @@ p {
 }
 
 .container {
+  width: 80%;
+  float: right;
   max-width: 1260px;
   min-width: 780px;
   margin: 0 auto;
