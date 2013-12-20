@@ -3,7 +3,6 @@
 body {
   font: 100%/1.4 Georgia, serif;
   background-color: white;
-  width: 79%;
   float: right;
   margin: 0;
   padding: 0;
@@ -12,7 +11,7 @@ body {
 sidebar {
   font-family: Bevan, georgia, serif;
   background-color: white;
-  width: 19%;
+  width: 250px;
   float: left;
   margin: 0 auto;
 }
