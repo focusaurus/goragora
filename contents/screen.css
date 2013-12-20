@@ -40,6 +40,8 @@ p {
   max-width: 1260px;
   min-width: 780px;
   margin: 0 auto;
+  padding-right: 0 auto;
+  padding-left: 0 auto;
 }
 
 nav > img {
