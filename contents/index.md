@@ -3,15 +3,6 @@ template: index.jade
 title: Gora Gora Orkestar
 ---
 sidebar
-  h3 UPCOMING SHOWS
-    ul
-      li -
-      li New Years Eve: December 31st 2013
-      li <a href="http://mercurycafe.com" target="_blank">The Mercury Cafe</a> (Denver, CO) | <a href="http://www.goragora.org/mecrury_cafe__31december2013.pdf" target="_blank">Event Flier</a>
-      li -
-      li March 20th - 23rd 2014
-      li <a href="http://www.honktx.org" target="_blank">Honk!TX</a> (Austin, TX)
-      li -
 <iframe width="69%" float="left" height="450" scrolling="no" frameborder="0"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/13897132&amp;color=000000&amp;auto_play=false&amp;show_artwork=true">
 </iframe>
