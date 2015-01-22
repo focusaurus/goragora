@@ -1,12 +1,18 @@
 {
   "name": "goragora",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "goragora.org web site",
   "repository": {
     "type": "git",
     "url": "ssh://git.peterlyons.com/home/plyons/projects/goragora.git"
   },
-  "author": "Peter Lyons <pete@peterlyons.com>",
+  "scripts": {
+    "start": "wintersmith preview"
+  },
+  "contributors": [
+    "Peter Lyons <pete@peterlyons.com> http://peterlyons.com",
+    "Ian Campbell <ian@afterpostmodernism.com> http://afterpostmodernism.com"
+  ],
   "license": "MIT",
   "dependencies": {
     "wintersmith": "~2.0.5"
