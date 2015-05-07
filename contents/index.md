@@ -5,7 +5,7 @@ title: Gora Gora Orkestar
 ##LISTEN
 <iframe width="100%" height="350" scrolling="no" frameborder="0"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/13897132&amp;color=000000&amp;auto_play=false&amp;show_artwork=true"></iframe>
-  
+
 ##WATCH
 <iframe width="100%" height="350" frameborder="0" src="//www.youtube.com/embed/Hx5Bg0GY3ao">
 </iframe>
@@ -19,5 +19,3 @@ Gora Gora Orkestar brings the sounds of the Balkans to the Rockies with high ene
 This happy caravan of musicians is comprised of seasoned veterans in the performance, education, and composition of music. The “Infinite Swag” EP was released in 2011 featuring five of Gora Gora Orkestar’s most recognizable tunes with a follow-up record slated for release in 2014.
 
 Gora Gora Orkestar maintains a busy performance schedule which includes local and national music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission as they have visited many public schools, performed for local 5k marathons and continue to participate in fund-raising for local businesses.
-
-# 
