@@ -14,7 +14,7 @@ Our New Year's Eve performance at The Mercury Cafe is going to be a honking good
 <iframe width="100%" height="350" frameborder="0" src="//www.youtube.com/embed/Hx5Bg0GY3ao">
 </iframe>
 
-##MAILING LIST
+##SUBSCRIBE TO OUR MAILING LIST
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -25,7 +25,6 @@ Our New Year's Eve performance at The Mercury Cafe is going to be a honking good
 <div id="mc_embed_signup">
 <form action="//goragora.us12.list-manage.com/subscribe/post?u=57d5e7fbfceaf24fad9707419&amp;id=1c42ad2136" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
