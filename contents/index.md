@@ -15,8 +15,19 @@ Our New Year's Eve performance at The Mercury Cafe is going to be a honking good
 </iframe>
 
 ##MAILING LIST
-<div class="widget_iframe" style="display:inline-block;width:100%;height:180px;margin:0;padding:0;border:0;"><iframe class="widget_iframe" src="http://www.reverbnation.com/widget_code/html_widget/artist_1036861?widget_id=54&pwc[design]=customized&pwc[background_color]=%23ffffff&pwc[size]=custom" width="100%" height="100%" frameborder="0" scrolling="no"></iframe></div>
-
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//goragora.us12.list-manage.com/subscribe/post?u=57d5e7fbfceaf24fad9707419&amp;id=1c42ad2136" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe to our mailing list</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_57d5e7fbfceaf24fad9707419_1c42ad2136" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
 ## BIOGRAPHY
 Gora Gora Orkestar brings the sounds of the Balkans to the Rockies with high energy performances. Formed in the fall of 2009, this 10 piece brass band is dedicated to making the audience dance with its infectious rhythm and own brand of feel-good music. The sound is an eclectic mix, blending Old World melodies of Eastern European folk, with the back beat of American funk and the sultry sway of South American tango.
 
