@@ -14,6 +14,6 @@ function deployDone (error, stdout, stderr) {
 
 http.createServer(function(req, res) {
   res.writeHead(200, {"Content-Type": "text/plain"})
-  res.end("Thank you, github!")
-  childProcess.exec(__dirname + "/go deploy", deployDone)
+  res.end("Thank you, github!\n")
+  childProcess.exec(__dirname + "/deploy.sh", deployDone)
 }).listen(9125, "0.0.0.0")
