@@ -10,4 +10,6 @@ To make live edits from [github.com](https://github.com), edit the page in the `
 
 # Development scripts
 
-- `./bin/build.sh` generate files for
+- `./bin/preview.sh` will build the site and start a web server so you can preview your local changes in a web browser. Preview URL is [http://localhost:9120]()
+- `./bin/build.sh` generate static files for production web server mode (used during automated deployment)
+- `./bin/clean.sh` remove generated files
