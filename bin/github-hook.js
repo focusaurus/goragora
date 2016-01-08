@@ -24,4 +24,5 @@ http.createServer(function(req, res) {
   }
   childProcess.exec(__dirname + "/deploy.sh", deployDone)
 }).listen(PORT, "0.0.0.0")
+
 console.log("GGO github hook listening on", PORT)
