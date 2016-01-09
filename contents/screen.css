@@ -88,6 +88,11 @@ li {
   margin-left: 15px;
 }
 
+div.upcoming-show {
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
 footer {
   margin-top: 30px;
   text-align: center;
@@ -96,4 +101,3 @@ footer {
 }
 
 // Copyright 2014 Gora Gora Orkestar. Created by Peter Lyons and Ian Campbell.
-
