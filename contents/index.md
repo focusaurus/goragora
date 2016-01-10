@@ -47,8 +47,8 @@ title: Gora Gora Orkestar
 <!--End mc_embed_signup-->
 
 ## BIOGRAPHY
-Gora Gora Orkestar brings the sounds of the Balkans to the Rockies with high energy performances. Formed in the fall of 2009, this 10 piece brass band is dedicated to making the audience dance with its infectious rhythm and own brand of feel-good music. The sound is an eclectic mix, blending Old World melodies of Eastern European folk, with the back beat of American funk and the sultry sway of South American tango.
+Gora Gora Orkestar brings the sounds of the World to the Rockies with high energy performances. Formed in the fall of 2009, this 10 piece brass band is dedicated to making the audience dance with its infectious rhythm and own brand of feel-good music. The sound is an eclectic mix, blending Old World melodies of Eastern European Balkan folk and New Orleans second-line, with the back beat of American funk and the sultry sway of South American tango.
 
-This happy caravan of musicians is comprised of seasoned veterans in the performance, education, and composition of music. The “Infinite Swag” EP was released in 2011 featuring five of Gora Gora Orkestar’s most recognizable tunes with a follow-up record slated for release in 2014.
+This happy caravan of musicians is comprised of seasoned veterans in the performance, education, and composition of music. The band has released two EP recordings, "2015" and “Infinite Swag”, with a follow-up record slated for release in 2016.
 
-Gora Gora Orkestar maintains a busy performance schedule which includes local and national music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission as they have visited many public schools, performed for local 5k marathons and continue to participate in fund-raising for local businesses.
+Gora Gora Orkestar maintains a busy performance schedule which includes nationak and local music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission including visits to many public schools, fund-raising for local businesses, and social-justice movement support.
