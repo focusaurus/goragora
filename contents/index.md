@@ -21,7 +21,6 @@ title: Gora Gora Orkestar
 <div id="mc_embed_signup">
 <form action="//goragora.us12.list-manage.com/subscribe/post?u=57d5e7fbfceaf24fad9707419&amp;id=1c42ad2136" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
@@ -35,6 +34,7 @@ title: Gora Gora Orkestar
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
