@@ -35,6 +35,7 @@ title: Gora Gora Orkestar
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<p>Powered by <a href="http://eepurl.com/be07yT" title="MailChimp - email marketing made easy and fun">MailChimp</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
