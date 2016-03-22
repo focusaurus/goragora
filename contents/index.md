@@ -53,4 +53,4 @@ Gora Gora Orkestar brings the sounds of the World to the Rockies with high energ
 
 This happy caravan of musicians is comprised of seasoned veterans in the performance, education, and composition of music. The band has released two EP recordings, "2015" and “Infinite Swag”, with a follow-up record slated for release in 2016.
 
-Gora Gora Orkestar maintains a busy performance schedule which includes nationak and local music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission including visits to many public schools, fund-raising for local businesses, and social-justice movement support.
+Gora Gora Orkestar maintains a busy performance schedule which includes national and local music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission including visits to many public schools, fund-raising for local businesses, and social-justice movement support.
