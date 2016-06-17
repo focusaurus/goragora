@@ -6,6 +6,14 @@ title: Gora Gora Orkestar
 <iframe width="100%" height="350" scrolling="no" frameborder="0"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/13897132&amp;color=000000&amp;auto_play=false&amp;show_artwork=true"></iframe>
 
+### Honk!Tx 2016 Live Recordings
+
+[Kocanski Cocek](honktx2016-kocanski.mp3)
+
+[Killer Robot](honktx2016-killer.mp3)
+
+[Jackson](honktx2016-jackson.mp3)
+
 ## WATCH
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/pxtxDQQICQU" frameborder="0" allowfullscreen></iframe>

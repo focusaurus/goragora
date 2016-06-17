@@ -72,6 +72,7 @@ h1, h2, h3 {
   font-family: Bevan, georgia, serif;
   border-top: 2px solid black;
   margin-top: 25px;
+  text-transform: uppercase;
 }
 
 h1 { font-size: 150% }
