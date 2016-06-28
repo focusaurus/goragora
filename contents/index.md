@@ -2,30 +2,35 @@
 template: index.jade
 title: Gora Gora Orkestar
 ---
+### SOCIAL
+
+- <a href="https://www.facebook.com/GoraGoraOrkestar", target="_blank">&#10148; Facebook</a>
+- <a href="https://twitter.com/goragoraork", target="_blank">&#10148; Twitter</a>
+- <a href="http://www.reverbnation.com/goragoraorkestar", target="_blank">&#10148; ReverbNation</a>
+- <a href="https://soundcloud.com/goragoraorkestar", target="_blank">&#10148; SoundCloud</a>
+
+### BOOKING & PRESS
+
+- <a href="mailto:goragoraorkestar@gmail.com">&#10148; Contact</a>
+- <a href="/ggo_epk_september2013_v3.pdf", target="_blank">&#10148; Electronic Press Kit</a>
+- <a href="/ggo_stage_plot_v10.pdf", target="_blank">&#10148; Stage Plot</a>
+
 ## LISTEN
 <iframe width="100%" height="350" scrolling="no" frameborder="0"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/13897132&amp;color=000000&amp;auto_play=false&amp;show_artwork=true"></iframe>
 
-### Honk!Tx 2016 Live Recordings
-
-[Kocanski Cocek](honktx2016-kocanski.mp3)
-
-[Killer Robot](honktx2016-killer.mp3)
-
-[Jackson](honktx2016-jackson.mp3)
-
 ## WATCH
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/pxtxDQQICQU" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/lEbAHvP3ez8" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/Z01PYRdqO-8" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/Hx5Bg0GY3ao" frameborder="0" allowfullscreen></iframe>
-
-
 <iframe width="100%" height="350" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/FLksiF9dHpk"></iframe>
+
+[More Videos](/media)
+
+## BIOGRAPHY
+Gora Gora Orkestar brings the sounds of the World to the Rockies with high energy performances. Formed in the fall of 2009, this 10 piece brass band is dedicated to making the audience dance with its infectious rhythm and own brand of feel-good music. The sound is an eclectic mix, blending Old World melodies of Eastern European Balkan folk and New Orleans second-line, with the back beat of American funk and the sultry sway of South American tango.
+
+This happy caravan of musicians is comprised of seasoned veterans in the performance, education, and composition of music. The band has released two EP recordings, "2015" and “Infinite Swag”, with a follow-up record slated for release in 2016.
+
+Gora Gora Orkestar maintains a busy performance schedule which includes national and local music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission including visits to many public schools, fund-raising for local businesses, and social-justice movement support.
 
 ## SUBSCRIBE TO OUR MAILING LIST
 <!-- Begin MailChimp Signup Form -->
@@ -63,10 +68,3 @@ title: Gora Gora Orkestar
 </form>
 </div>
 <!--End mc_embed_signup-->
-
-## BIOGRAPHY
-Gora Gora Orkestar brings the sounds of the World to the Rockies with high energy performances. Formed in the fall of 2009, this 10 piece brass band is dedicated to making the audience dance with its infectious rhythm and own brand of feel-good music. The sound is an eclectic mix, blending Old World melodies of Eastern European Balkan folk and New Orleans second-line, with the back beat of American funk and the sultry sway of South American tango.
-
-This happy caravan of musicians is comprised of seasoned veterans in the performance, education, and composition of music. The band has released two EP recordings, "2015" and “Infinite Swag”, with a follow-up record slated for release in 2016.
-
-Gora Gora Orkestar maintains a busy performance schedule which includes national and local music festivals along with headlining shows at a wide variety of venues. Community outreach is also a big part of the Gora Gora Orkestar mission including visits to many public schools, fund-raising for local businesses, and social-justice movement support.

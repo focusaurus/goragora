@@ -1,3 +1,15 @@
 extends layout
+block append sidebar
+  .sidebar
+
+    h3 MUSICIANS
+    ul
+      li TRUMPET: Tung Pham, Alice Hansen
+      li SAXOPHONE: <a href="http://www.peterlyons.com" target="_blank">Pete Lyons</a>, Stephen Angus
+      li TROMBONE: John Jonas, Breana Cowart
+      li SOUSAPHONE: <a href="http://www.benfausch.com/" target="_blank">Ben Fausch</a>
+      li DRUMS: Adam Loudermilk, Vic Stauffenberg
+      li VOCALS: Kelly Maxwell  != page.html
 block append body
-  != page.html
+  .content
+    != page.html

@@ -15,9 +15,36 @@ a {
 }
 
 a:hover, ul.nav a:active, ul.nav a:focus {
-background: #FFFFFF;
-color: #700000;
+  background: white;
+  color: #700000;
 }
+
+.subnav {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  align-content: space-between;
+}
+
+.subnav .block {
+  margin-right: 2em;
+}
+
+.content {
+  /*display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: nowrap;*/
+  max-width: 40em;
+  padding: 2em;
+  margin: 0 auto
+}
+
+/*.content > * {
+  max-width: 80%;
+}*/
 
 p {
   margin-top: 0;
@@ -25,26 +52,10 @@ p {
   padding-left: 15px;
 }
 
-.container {
-  width: 80%;
-  max-width: 1260px;
-  min-width: 780px;
-  margin: 0 auto;
-  overflow: hidden;
-}
-
-.sidebar {
-  float: right;
-  width: 49%;
-  background: #FFFFFF;
-  padding-bottom: 10px;
-}
-
-.content {
-  width: 49%;
-  float: left;
-  background: #FFFFFF;
-  padding-bottom: 10px;
+nav {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 nav > img {
@@ -60,15 +71,19 @@ nav {
 nav a {
   color: black;
   font-weight: bold;
-  margin-left: 1em;
+  margin-left: 2em;
+}
+
+nav > .links {
+  margin-top: 1em;
 }
 
 nav a:hover, ul.nav a:active, ul.nav a:focus {
-background: #FFFFFF;
-color: #700000;
+  background: white;
+  color: #700000;
 }
 
-h1, h2, h3 {
+h1, h2, h3, nav a {
   font-family: Bevan, georgia, serif;
   border-top: 2px solid black;
   margin-top: 25px;
@@ -89,6 +104,18 @@ li {
   margin-left: 15px;
 }
 
+.column {
+  margin: 0 auto;
+  max-width: 40em;
+  padding: 0 2em;
+}
+
+.shows {
+  /*display: flex;
+  flex-direction: column;
+  align-items: center;*/
+}
+
 div.upcoming-show {
   margin-top: 1em;
   margin-bottom: 2em;
@@ -99,6 +126,7 @@ footer {
   text-align: center;
   font-style: italic;
   color: grey;
+  margin-bottom: 1em;
 }
 
 // Copyright 2014 Gora Gora Orkestar. Created by Peter Lyons and Ian Campbell.
