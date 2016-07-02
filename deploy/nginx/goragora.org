@@ -9,6 +9,7 @@ server {
     access_log /home/plyons/projects/goragora/var/log/nginx.access.log;
     error_log /home/plyons/projects/goragora/var/log/nginx.error.log;
     error_page 404 /error404.html;
+    default_type text/html;
 
     location / {
         root /home/plyons/projects/goragora/build;
