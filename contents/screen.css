@@ -1,119 +1,96 @@
 @import url(http://fonts.googleapis.com/css?family=Bevan);
 
+/***** layout and responsive design mechanics *****/
 body {
-  font: 100%/1.4 Georgia, serif;
-  background-color: white;
-  margin: 0;
-  padding: 0;
-  color: black;
+  margin: 1em auto;
+  padding: 1em;
 }
 
+/* https://github.com/mrmrs/fluidity */
+img, canvas, iframe, video, svg {
+  max-width: 100%;
+  margin-bottom: 2em;
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    max-width: 35em;
+  }
+}
+
+/***** typography and font sizes ****/
+
+html {
+  font-family: georgia, serif;
+}
+
+h1 { font-size: 18px; }
+h2 { font-size: 16px; }
+h3 { font-size: 12px; }
+
+@media only screen and (min-width: 1025px) {
+  html { font-size: 24px; }
+  h1 { font-size: 32px; }
+  h2 { font-size: 28px; }
+  h3 { font-size: 24px; }
+}
+
+/***** basic look *****/
 a {
   text-decoration: none;
   font-weight: bold;
   color: black;
 }
 
-a:hover, ul.nav a:active, ul.nav a:focus {
-  background: white;
+a:hover, a:active, a:focus {
   color: #700000;
 }
 
-.subnav {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: center;
-  align-content: space-between;
-}
-
-.subnav .block {
-  margin-right: 2em;
-}
-
-.content {
-  /*display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-content: center;
-  flex-wrap: nowrap;*/
-  max-width: 40em;
-  padding: 2em;
-  margin: 0 auto
-}
-
-/*.content > * {
-  max-width: 80%;
-}*/
-
-p {
-  margin-top: 0;
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
-nav {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-
-nav > img {
-  display: block;
-  margin-bottom: 10px;
-}
-
-nav {
-  font-family: Bevan, georgia, serif;
-  margin-bottom: 30px;
-}
-
-nav a {
-  color: black;
-  font-weight: bold;
-  margin-left: 2em;
-}
-
-nav > .links {
-  margin-top: 1em;
-}
-
-nav a:hover, ul.nav a:active, ul.nav a:focus {
-  background: white;
-  color: #700000;
-}
-
-h1, h2, h3, nav a {
-  font-family: Bevan, georgia, serif;
-  border-top: 2px solid black;
-  margin-top: 25px;
-  text-transform: uppercase;
-}
-
-h1 { font-size: 150% }
-h2 { font-size: 125% }
-h3 { font-size: 110% }
-
-ul, ol, dl {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
+ul {
+  padding-left: 2em;
 }
 
 li {
-  margin-left: 15px;
+  margin-bottom: 2em;
 }
 
-.column {
-  margin: 0 auto;
-  max-width: 40em;
-  padding: 0 2em;
+h1, h2, h3, h4, h5, h6, nav.site a {
+  font-family: Bevan, georgia, serif;
+  border-top: 2px solid black;
+  margin-top: 2em;
+  text-transform: uppercase;
 }
 
-.shows {
-  /*display: flex;
-  flex-direction: column;
-  align-items: center;*/
+/***** logo *****/
+
+.logo {
+  display: block;
+  margin-bottom: 1em;
+  max-width: 85%;
+}
+
+/***** navigation *****/
+nav.site {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+nav.site a {
+  font-family: bevan, georgia, serif;
+  text-transform: uppercase;
+}
+
+nav.secondary a {
+  font-weight: bold;
+  display: block;
+  line-height: 2em;
+  margin-left: 1em;
+}
+
+nav.secondary a:before {
+  content: "\27A4  "
 }
 
 div.upcoming-show {
@@ -129,4 +106,4 @@ footer {
   margin-bottom: 1em;
 }
 
-// Copyright 2014 Gora Gora Orkestar. Created by Peter Lyons and Ian Campbell.
+/* Copyright 2014 Gora Gora Orkestar. Created by Peter Lyons and Ian Campbell. */
