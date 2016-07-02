@@ -13,12 +13,12 @@ filename: media
 
 ## WATCH
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/Hx5Bg0GY3ao" frameborder="0" allowfullscreen></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/Hx5Bg0GY3ao" width="100%"></iframe>
 
-<iframe width="100%" height="350" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/FLksiF9dHpk"></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/FLksiF9dHpk" width="100%"></iframe>
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/pxtxDQQICQU" frameborder="0" allowfullscreen></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/pxtxDQQICQU" width="100%"></iframe>
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/lEbAHvP3ez8" frameborder="0" allowfullscreen></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/lEbAHvP3ez8" width="100%"></iframe>
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/Z01PYRdqO-8" frameborder="0" allowfullscreen></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/Z01PYRdqO-8" width="100%"></iframe>
