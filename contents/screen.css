@@ -16,6 +16,10 @@ img, canvas, iframe, video, svg {
   body {
     max-width: 35em;
   }
+
+  iframe {
+    height: 500px;
+  }
 }
 
 /***** typography and font sizes ****/
@@ -91,6 +95,10 @@ nav.secondary a {
 
 nav.secondary a:before {
   content: "\27A4  "
+}
+
+iframe {
+  height: 350px;
 }
 
 div.upcoming-show {
