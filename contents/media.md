@@ -5,20 +5,23 @@ filename: media
 ---
 ### Honk!Tx 2016 Live Recordings
 
-[Kocanski Cocek](honktx2016-kocanski.mp3)
+**Kocanski Cocek**
+<audio src="honktx2016-kocanski.mp3" preload="auto" controls></audio>
 
-[Killer Robot](honktx2016-killer.mp3)
+**Killer Robot**
+<audio src="honktx2016-kocanski.mp3" preload="auto" controls></audio>
 
-[Jackson](honktx2016-jackson.mp3)
+**Jackson**
+<audio src="honktx2016-jackson.mp3" preload="auto" controls></audio>
 
 ## WATCH
 
-<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/Hx5Bg0GY3ao" width="100%"></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/Hx5Bg0GY3ao"></iframe>
 
-<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/FLksiF9dHpk" width="100%"></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/FLksiF9dHpk"></iframe>
 
-<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/pxtxDQQICQU" width="100%"></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/pxtxDQQICQU"></iframe>
 
-<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/lEbAHvP3ez8" width="100%"></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/lEbAHvP3ez8"></iframe>
 
-<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/Z01PYRdqO-8" width="100%"></iframe>
+<iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/Z01PYRdqO-8"></iframe>
