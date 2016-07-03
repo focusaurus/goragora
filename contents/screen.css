@@ -70,6 +70,7 @@ h1, h2, h3, h4, h5, h6, nav.site a {
 
 iframe {
   border: none;
+  width: 100%;
 }
 /***** logo *****/
 
