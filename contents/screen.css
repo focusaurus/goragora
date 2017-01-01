@@ -117,4 +117,10 @@ footer {
   margin-bottom: 1em;
 }
 
+/***** shows *****/
+.past-shows a {
+  display: block;
+  padding-bottom: 1em;
+  margin-left: 1em;
+}
 /* Copyright 2014 Gora Gora Orkestar. Created by Peter Lyons and Ian Campbell. */
