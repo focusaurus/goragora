@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Bevan);
+@import url(http://fonts.googleapis.com/css?family=bevan);
 
 /***** layout and responsive design mechanics *****/
 body {
@@ -62,7 +62,7 @@ li {
 }
 
 h1, h2, h3, h4, h5, h6, nav.site a {
-  font-family: Bevan, georgia, serif;
+  font-family: bevan, georgia, serif;
   border-top: 2px solid black;
   margin-top: 2em;
   text-transform: uppercase;
@@ -72,6 +72,17 @@ iframe {
   border: none;
   width: 100%;
 }
+
+blockquote {
+  font-family: times, serif;
+  font-style: italic;
+}
+.attribution {
+  font-family: impact;
+  font-style: normal;
+  font-weight: bold;
+}
+
 /***** logo *****/
 
 .logo {
