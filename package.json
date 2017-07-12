@@ -15,6 +15,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "wintersmith": "2.3.1"
+    "wintersmith": "2.4.1"
   }
 }
