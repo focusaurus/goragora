@@ -7,4 +7,5 @@ PATH=$(npm bin):$PATH
 if [[ ! -d node_modules ]]; then
   npm install
 fi
+(sleep 0.5 && open http://localhost:9120/shows &)
 wintersmith preview
