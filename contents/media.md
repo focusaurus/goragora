@@ -6,6 +6,10 @@ filename: media
 
 ## WATCH
 
+<iframe allowfullscreen src="https://www.youtube.com/embed/q8kU5I8JXvo"></iframe>
+
+<iframe allowfullscreen src="https://www.youtube.com/embed/E4WsXUVlbbQ"></iframe>
+
 <iframe allowfullscreen src="https://www.youtube.com/embed/3DU7_kQVzQA"></iframe>
 
 <iframe allowfullscreen src="https://www.youtube.com/embed/Hx5Bg0GY3ao"></iframe>
