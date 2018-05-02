@@ -6,5 +6,6 @@ PATH=$(pwd)/../node/bin:$PATH
 PATH=$(npm bin):$PATH
 
 git pull origin master
-npm install --production
+# this takes too long
+# npm install --production
 wintersmith build
