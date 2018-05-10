@@ -1,0 +1,13 @@
+[Unit]
+Description=Gora Gora Github Hook
+
+[Service]
+User=goragora
+Group=goragora
+WorkingDirectory=/home/goragora/goragora
+Environment=NODE_ENV=production
+ExecStart=/home/goragora/node/bin/node ./github-hook.js
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

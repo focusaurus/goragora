@@ -2,3 +2,4 @@
 /build
 /var
 /node_modules
+/node-*.tar.*
