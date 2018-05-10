@@ -14,7 +14,7 @@ IFS="$(printf "\n\t")"
 # ---- End unofficial bash strict mode boilerplate
 
 apt --yes --quiet update
-apt --yes --quiet install git-core
+apt --yes --quiet install git-core curl
 adduser --gecos goragora --disabled-login goragora
 
 su - goragora -c 'git clone https://github.com/focusaurus/goragora.git'

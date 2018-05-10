@@ -2,10 +2,8 @@
 cd "$(dirname "$0")/.."
 source ./bin/lib/strict-mode.sh
 echo -n "node…"
-node_version
 node_version="$(cat .nvmrc)"
 node_archive="node-v${node_version}-linux-x64.tar.gz"
-node_url
 node_url="https://nodejs.org/dist/v${node_version}/${node_archive}"
 if [[ ! -f "${node_archive}" ]]; then
   curl --silent --fail --location --remote-name "${node_url}"
