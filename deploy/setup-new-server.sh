@@ -17,13 +17,9 @@ apt --yes --quiet update
 apt --yes --quiet install git-core
 adduser --gecos goragora --disabled-login goragora
 
-# su - goragora
-git clone https://github.com/focusaurus/goragora.git
-cd goragora
-./bin/setup-node.sh
-./bin/build.sh
-
-# as root again
+su - goragora -c 'git clone https://github.com/focusaurus/goragora.git'
+su - goragora -c 'cd goragora && ./bin/setup-node.sh'
+su - goragora -c 'cd goragora && ./bin/build.sh'
 
 # goragora-github-hook service
 service="goragora-github-hook"
