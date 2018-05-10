@@ -6,13 +6,13 @@ server {
     #in production and staging
     server_name_in_redirect off;
     charset utf-8;
-    access_log /home/plyons/projects/goragora/var/log/nginx.access.log;
-    error_log /home/plyons/projects/goragora/var/log/nginx.error.log;
+    access_log /home/goragora/goragora/var/log/nginx.access.log;
+    error_log /home/goragora/goragora/var/log/nginx.error.log;
     error_page 404 /error404.html;
     default_type text/html;
 
     location / {
-        root /home/plyons/projects/goragora/build;
+        root /home/goragora/goragora/build;
         #Trailing slashes are verboten
         rewrite ^(.+)/$ http://$host$1 permanent;
         index index.html;

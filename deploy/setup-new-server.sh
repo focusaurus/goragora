@@ -17,17 +17,26 @@ apt --yes --quiet update
 apt --yes --quiet install git-core curl
 adduser --gecos goragora --disabled-login goragora
 
-su - goragora -c 'git clone https://github.com/focusaurus/goragora.git'
-su - goragora -c 'cd goragora && ./bin/setup-node.sh'
-su - goragora -c 'cd goragora && ./bin/build.sh'
+cat <<EOF | su - goragora -c bash
+set -o errexit
+git clone https://github.com/focusaurus/goragora.git
+cd goragora
+./bin/setup-node.sh
+./bin/build.sh
+EOF
 
 # goragora-github-hook service
+base="/home/goragora/goragora"
 service="goragora-github-hook"
-ln -nsf "/home/goragora/goragora/deploy/${service}.service" /etc/systemd/system
+ln -nsf "${base}/deploy/${service}.service" /etc/systemd/system
 systemctl daemon-reload
 service "${service}" start
 
 # nginx
 apt --yes --quiet install nginx
-ln -nsf "${PWD}/deploy/goragora.org" "/etc/nginx/sites-enabled"
+mkdir -p "${base}/var/log"
+touch "${base}"/var/log/nginx.{access,error}.log
+chown -R www-data:goragora "${base}/var/log/"
+chmod -R g+w "${base}/var/log"
+ln -nsf "${base}/deploy/goragora.org" "/etc/nginx/sites-enabled"
 nginx -t && service nginx reload
