@@ -23,7 +23,7 @@ su - goragora -c 'cd goragora && ./bin/build.sh'
 
 # goragora-github-hook service
 service="goragora-github-hook"
-ln -nsf "${PWD}/deploy/${service}.service" /etc/systemd/system
+ln -nsf "/home/goragora/goragora/deploy/${service}.service" /etc/systemd/system
 systemctl daemon-reload
 service "${service}" start
 
