@@ -16,3 +16,5 @@ To make live edits from [github.com](https://github.com), edit the page in the `
 * `./bin/deploy.sh` does a fresh git pull and rebuild during the github hook
 * `./bin/setup-node.sh` installs the correct node version
 * `./bin/start-docker-shell.sh` starts a shell within docker for local development inside docker
+
+(deploy test 2018-05-11T15:52:42Z)
