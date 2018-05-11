@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 cd "$(dirname "$0")/.."
-. ./bin/lib/strict-mode.sh
+source ./bin/lib/strict-mode.sh
 exec docker run --rm --interactive --tty \
   --volume "${PWD}:/opt" --workdir /opt \
   --env USER=root \
