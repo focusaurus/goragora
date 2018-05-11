@@ -20,7 +20,7 @@ http
       "Content-Type": "text/plain"
     });
     res.end("Thank you, github!\n");
-    childProcess.exec(__dirname + "/deploy.sh", deployDone);
+    childProcess.exec(__dirname + "bin/deploy.sh", deployDone);
   })
   .listen(PORT, "0.0.0.0");
 
