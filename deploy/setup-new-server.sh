@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 # Please Use Google Shell Style: https://google.github.io/styleguide/shell.xml
 

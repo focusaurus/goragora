@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 cd "$(dirname "$0")/.."
 source ./bin/lib/strict-mode.sh
 exec docker run --rm --interactive --tty \
