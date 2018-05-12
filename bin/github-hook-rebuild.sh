@@ -4,4 +4,5 @@ source ./bin/lib/strict-mode.sh
 PATH="${PWD}/node_modules/.bin:${PATH}"
 git pull origin master
 npm install --production
+git checkout package-lock.json
 wintersmith build
