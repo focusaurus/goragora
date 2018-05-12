@@ -20,19 +20,13 @@ adduser --gecos goragora --disabled-login goragora
 cat <<EOF | su - goragora -c bash
 set -o errexit
 git clone https://github.com/focusaurus/goragora.git
-cd goragora
-./bin/setup-node.sh
-./bin/build.sh
 EOF
 
-# goragora-github-hook service
-base="/home/goragora/goragora"
-service="goragora-github-hook"
-ln -nsf "${base}/deploy/${service}.service" /etc/systemd/system
-systemctl daemon-reload
-service "${service}" start
+# docker service
+./docker/service-start.sh
 
 # nginx
+base="/home/goragora/goragora"
 apt --yes --quiet install nginx
 mkdir -p "${base}/var/log"
 touch "${base}/var/log/nginx.access.log" "${base}/var/log/nginx.error.log"
