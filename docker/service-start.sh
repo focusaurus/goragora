@@ -3,5 +3,5 @@ cd "$(dirname "$0")/.."
 source ./bin/lib/strict-mode.sh
 exec docker run --detach --restart=unless-stopped \
   --volume "${PWD}:/opt" \
-  --publish 127.0.0.1:9125:9125 \
+  --publish 0.0.0.0:9125:9125 \
   goragora
