@@ -6,6 +6,7 @@
     "type": "git",
     "url": "ssh://git.peterlyons.com/home/plyons/projects/goragora.git"
   },
+  "main": "./github-hook.js",
   "scripts": {
     "start": "wintersmith preview"
   },
