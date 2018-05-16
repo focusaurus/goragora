@@ -28,9 +28,5 @@ EOF
 # nginx
 base="/home/goragora/goragora"
 apt --yes --quiet install nginx
-mkdir -p "${base}/var/log"
-touch "${base}/var/log/nginx.access.log" "${base}/var/log/nginx.error.log"
-chown -R www-data:goragora "${base}/var/log/"
-chmod -R g+w "${base}/var/log"
 ln -nsf "${base}/deploy/goragora.org" "/etc/nginx/sites-enabled"
 nginx -t && service nginx reload
