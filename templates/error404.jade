@@ -1,0 +1,11 @@
+extends layout
+block append body
+
+  h2 Oops we lost you
+  
+  p You seem to have landed on a page we couldn't find. We'll send you to the home page momentarily.
+  
+  script.
+    setTimeout(() => {
+      window.location = "/";
+    }, 8000)
