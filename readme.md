@@ -24,17 +24,18 @@ To make live edits from [github.com](https://github.com), edit the page in the `
 ## Local Development scripts
 
 * `./bin/build-site.sh` generate static files for production web server mode
-* `./bin/clean.sh` remove generated files
-* `./bin/github-hook-rebuild.sh` does a fresh git pull and rebuild during the github hook
+  * These end up in the `build` directory
+* `./bin/clean.sh` remove generated files (`build` directory)
 * `./bin/preview.sh` will build the site and start a web server so you can preview your local changes in a web browser. Preview URL is [http://localhost:9120]()
 
 ## Docker scripts
 
 * Install docker if you want to run this via docker
 * `./docker/build-image.sh` will build the "goragora" docker image for this project. This is **just** the prerequisite toolchain (node, git, bash, etc). Not the actual web site content nor the npm dependencies.
-* `./docker/build-site.sh` will generate the static site files by running wintersmith in the "goragora" docker image
+* `./docker/build-site.sh` will generate the static site files by running wintersmith in the "goragora" docker image. Generated files will be available locally in your `build` directory though, not inside any docker container.
 * `./docker/service-start.sh` used to start the github web hook service in production under docker
-* `./docker/start.sh bash` Used to start a shell or other ad-hoc command in the docker image as needed
+* `./docker/preview.sh` used to start nginx in a docker container using the static site's configuration. The URL will be [http://stage.goragora.org:9121](). Add `127.0.0.1 stage.goragora.org` to your `/etc/hosts` file to setup a mock DNS record so the hostname works.
+* `./docker/run.sh bash` Used to run a shell (or other ad-hoc command) in the docker image as needed
 
 ## How to deploy to a production server
 
