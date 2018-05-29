@@ -8,7 +8,8 @@
   },
   "main": "./github-hook.js",
   "scripts": {
-    "start": "wintersmith preview"
+    "start": "wintersmith preview",
+    "build": "./bin/build-site.sh"
   },
   "contributors": [
     "Peter Lyons <pete@peterlyons.com> http://peterlyons.com",
