@@ -12,7 +12,7 @@
     "build": "./bin/build-site.sh"
   },
   "contributors": [
-    "Peter Lyons <pete@peterlyons.com> http://peterlyons.com",
+    "Peter Lyons <pete@peterlyons.com> https://peterlyons.com",
     "Ian Campbell <ian@afterpostmodernism.com> http://afterpostmodernism.com"
   ],
   "license": "MIT",
