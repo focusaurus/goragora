@@ -1,137 +1,221 @@
 @import url(https://fonts.googleapis.com/css?family=bevan);
 
 /***** layout and responsive design mechanics *****/
-body {
-  margin: 1em auto;
-  padding: 1em;
+body
+{
+    margin: 1em auto;
+    padding: 1em;
 }
 
 /* https://github.com/mrmrs/fluidity */
-img, canvas, iframe, video, svg {
-  max-width: 100%;
-  margin-bottom: 2em;
+img,
+canvas,
+iframe,
+video,
+svg
+{
+    max-width: 100%;
+    margin-bottom: 2em;
 }
 
-@media only screen and (min-width: 600px) {
-  body {
-    max-width: 35em;
-  }
+@media only screen and (min-width: 600px)
+{
+    body
+    {
+        max-width: 35em;
+    }
 }
 
-iframe {
-  height: 350px;
+iframe
+{
+    height: 350px;
 }
 
 /***** typography and font sizes ****/
 
-html {
-  font-family: georgia, serif;
+html
+{
+    font-family: georgia, serif;
 }
 
-h1 { font-size: 18px; }
-h2 { font-size: 16px; }
-h3 { font-size: 12px; }
+h1
+{
+    font-size: 18px;
+}
+h2
+{
+    font-size: 16px;
+}
+h3
+{
+    font-size: 12px;
+}
 
-@media only screen and (min-width: 1025px) {
-  html { font-size: 24px; }
-  h1 { font-size: 32px; }
-  h2 { font-size: 28px; }
-  h3 { font-size: 24px; }
-  iframe {
-    height: 500px;
-  }
+@media only screen and (min-width: 1025px)
+{
+    html
+    {
+        font-size: 24px;
+    }
+    h1
+    {
+        font-size: 32px;
+    }
+    h2
+    {
+        font-size: 28px;
+    }
+    h3
+    {
+        font-size: 24px;
+    }
+    iframe
+    {
+        height: 500px;
+    }
 }
 
 /***** basic look *****/
-a {
-  text-decoration: none;
-  font-weight: bold;
-  color: black;
+a
+{
+    font-weight: bold;
+
+    text-decoration: none;
+
+    color: black;
 }
 
-a:hover, a:active, a:focus {
-  color: #700000;
+a:hover,
+a:active,
+a:focus
+{
+    color: #700000;
 }
 
-ul {
-  padding-left: 2em;
+ul
+{
+    padding-left: 2em;
 }
 
-li {
-  margin-bottom: 2em;
+li
+{
+    margin-bottom: 2em;
 }
 
-h1, h2, h3, h4, h5, h6, nav.site a {
-  font-family: bevan, georgia, serif;
-  border-top: 2px solid black;
-  margin-top: 2em;
-  text-transform: uppercase;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+nav.site a
+{
+    font-family: bevan, georgia, serif;
+
+    margin-top: 2em;
+
+    text-transform: uppercase;
+
+    border-top: 2px solid black;
 }
 
-iframe {
-  border: none;
-  width: 100%;
+iframe
+{
+    width: 100%;
+
+    border: none;
 }
 
-blockquote {
-  font-family: times, serif;
-  font-style: italic;
+blockquote
+{
+    font-family: times, serif;
+    font-style: italic;
 }
-.attribution {
-  font-family: impact;
-  font-style: normal;
-  font-weight: bold;
+.attribution
+{
+    font-family: impact;
+    font-weight: bold;
+    font-style: normal;
 }
 
 /***** logo *****/
 
-.logo {
-  display: block;
-  margin-bottom: 1em;
-  max-width: 85%;
+.logo
+{
+    display: block;
+
+    max-width: 85%;
+    margin-bottom: 1em;
 }
 
 /***** navigation *****/
-nav.site {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-bottom: 30px;
+nav.site
+{
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 30px;
+
+    justify-content: space-between;
 }
 
-nav.site a {
-  font-family: bevan, georgia, serif;
-  text-transform: uppercase;
+nav.site a
+{
+    font-family: bevan, georgia, serif;
+
+    text-transform: uppercase;
 }
 
-nav.secondary a {
-  font-weight: bold;
-  display: block;
-  line-height: 2em;
-  margin-left: 1em;
+nav.secondary a
+{
+    font-weight: bold;
+    line-height: 2em;
+
+    display: block;
+
+    margin-left: 1em;
 }
 
-nav.secondary a:before {
-  content: "\27A4  "
+nav.secondary a:before
+{
+    content: '\27A4  ';
 }
 
-div.upcoming-show {
-  margin-top: 1em;
-  margin-bottom: 2em;
+div.upcoming-show
+{
+    margin-top: 1em;
+    padding-bottom: 2em;
+
+    border-bottom: 2px solid grey;
 }
 
-footer {
-  margin-top: 30px;
-  text-align: center;
-  font-style: italic;
-  color: grey;
-  margin-bottom: 1em;
+div.upcoming-show a
+{
+    display: block;
+}
+div.upcoming-show:last-child
+{
+    border-bottom: none;
+}
+
+footer
+{
+    font-style: italic;
+
+    margin-top: 30px;
+    margin-bottom: 1em;
+
+    text-align: center;
+
+    color: grey;
 }
 
 /***** shows *****/
-.past-shows a {
-  display: block;
-  padding-bottom: 1em;
-  margin-left: 1em;
+.past-shows a
+{
+    display: block;
+
+    margin-left: 1em;
+    padding-bottom: 1em;
 }
 /* Copyright 2014 Gora Gora Orkestar. Created by Peter Lyons and Ian Campbell. */
