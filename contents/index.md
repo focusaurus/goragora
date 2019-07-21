@@ -1,4 +1,4 @@
 ---
-template: index.jade
+template: index.pug
 title: Gora Gora Orkestar
 ---

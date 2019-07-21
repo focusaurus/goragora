@@ -1,5 +1,5 @@
 ---
-template: media.jade
+template: media.pug
 title: Listen and Watch
 filename: media
 ---

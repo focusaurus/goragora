@@ -1,5 +1,5 @@
 ---
-template: shows.jade
+template: shows.pug
 title: Shows
 filename: shows
 ---
