@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "npm-check-updates": "^3.1.20",
+    "npm-check-updates": "^3.1.21",
     "wintersmith": "^2.5.0"
   }
 }
