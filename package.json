@@ -1,12 +1,11 @@
 {
   "name": "goragora",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "goragora.org web site",
   "repository": {
     "type": "git",
-    "url": "ssh://git.peterlyons.com/home/plyons/projects/goragora.git"
+    "url": "https://github.com/focusaurus/goragora.git"
   },
-  "main": "./github-hook.js",
   "scripts": {
     "start": "wintersmith preview",
     "build": "./bin/build-site.sh"
