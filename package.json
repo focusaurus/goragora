@@ -1,12 +1,11 @@
 {
   "name": "goragora",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "goragora.org web site",
   "repository": {
     "type": "git",
-    "url": "ssh://git.peterlyons.com/home/plyons/projects/goragora.git"
+    "url": "https://github.com/focusaurus/goragora.git"
   },
-  "main": "./github-hook.js",
   "scripts": {
     "start": "wintersmith preview",
     "build": "./bin/build-site.sh"
@@ -17,7 +16,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "npm-check-updates": "^3.1.21",
+    "npm-check-updates": "^11.8.3",
     "wintersmith": "^2.5.0"
   }
 }
