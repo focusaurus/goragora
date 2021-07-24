@@ -1,0 +1,6 @@
+[Settings]
+ID = "goragora"
+[build]
+  # Default build command.
+  command = "npm run build"
+  publish = "build"
